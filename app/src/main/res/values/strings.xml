@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="welcome_message">Welcome to Memory! (Kid\'s Version)</string>
+    <string name="difficulty_selection_display">Select A Difficulty</string>
+    <string name="start_game_button">Start!</string>
+    <string-array name="difficulties_array">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+</resources>

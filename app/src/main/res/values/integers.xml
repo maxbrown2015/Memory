@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="easy_column_count">2</integer>
+    <integer name="easy_row_count">3</integer>
+    <integer name="game_data_row_count">1</integer>
+    <integer name="game_data_column_count">3</integer>
+</resources>
